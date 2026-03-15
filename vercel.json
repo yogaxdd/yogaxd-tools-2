@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/proxy/:path*",
+      "destination": "https://api.nexray.web.id/:path*"
+    }
+  ]
+}
+
